@@ -35,7 +35,7 @@ if st.session_state.theme == "Dark":
     warning_bg = "#453C1E"
     warning_text_color = "#fff3cd"
 else:
-    background_color = "#ffffff url('https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1920&q=80') no-repeat center center fixed"
+    background_color = "#ffffff url('https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1751949019/pm8nqffbgjmemdhdnszh.jpg') no-repeat center center fixed"
     foreground_color = "#1A1A1A"
     container_bg = "rgba(255, 255, 255, 0.9)"
     button_bg = "#2E7D32"
